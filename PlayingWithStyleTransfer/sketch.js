@@ -1,5 +1,5 @@
 let nets = {};
-let modelNames = ['rain_princess','zhangdaqian','wave'];
+let modelNames = ['rain_princess','zhangdaqian','thiebaud'];
 let inputImg, styleImg;
 let outputImgData;
 let outputImg;
